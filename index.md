@@ -1,13 +1,18 @@
 # Markdown Hands-On
 
-## Definiendo un encabezado de nivel 2
+## Defining a level 2 header
 
-## Agregando imagenes
+## Adding an image
 
 ![Mi primer imagen](https://octodex.github.com/images/yaktocat.png)
 
-## Agregando codigo
+## Adding a code block
 
 ```javascript
 let hiMessage = "Hello world!";
 ```
+## Adding a task list
+
+- [x] Add header
+- [x] Add code
+- [x] Add task list
